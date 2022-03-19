@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @GO-Creative-tm
+- 👋 Hi, I’m Oraz.
 - 👀 I’m interested in Android App Development with Java and also interested in Python Django Web Framework
+- 📖 I'm currently learning Flutter🔥
 - 📫 How to reach me:
-        oragulcayew2233@gmail.com
-        orazgulcayew0@gmail.com
+        orazgulcayew@gmail.com
         
         Instagram:
           @orazgulcayew
           
         Twitter:
-          @gulcayew_oraz
+          @oraz_gulchayev
 <!---
 GO-Creative-tm/GO-Creative-tm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
