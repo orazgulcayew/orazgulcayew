@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Oraz.
-- 👀 I’m interested in Android App Development with Java and also interested in Python Django Web Framework
-- 📖 I'm currently learning Flutter🔥
+- 👀 I’m interested in Mobile App Development (Kotlin, Java, Flutter)
+- I have got some experiences with react native and in MERN stack
+- 📖 I'm currently Focusing to develop my programming skills
 - 📫 How to reach me:
         orazgulcayew@gmail.com
         
