@@ -10,10 +10,10 @@
 <summary> <h3>Github Stats <h3>🔥🚀</summary>
 
 <!--   GitHub stats graph -->
-![Oraz's github stats](https://github-readme-stats.vercel.app/api?username=orazgulcayew&show_icons=true&theme=onedark&include_all_commits=true)
+![Oraz's github stats](https://github-readme-stats.vercel.app/api?username=orazgulcayew&show_icons=true&theme=vue-dark&include_all_commits=true)
 
-![Oraz's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=orazgulcayew&theme=onedark&layout=compact)
-<p align="left""><img src="https://github-readme-streak-stats.herokuapp.com/?user=orazgulcayew&theme=onedark"></img></p>
+![Oraz's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=orazgulcayew&theme=vue-dark&layout=compact)
+<p align="left""><img src="https://github-readme-streak-stats.herokuapp.com/?user=orazgulcayew&theme=vue-dark"></img></p>
 </details>
 <!--   profile-green-animate -->
 
