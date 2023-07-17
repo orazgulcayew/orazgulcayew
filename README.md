@@ -14,7 +14,7 @@
 
 ![Oraz's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=orazgulcayew&theme=vue-dark&layout=compact)
 <p align="left""><img src="https://github-readme-streak-stats.herokuapp.com/?user=orazgulcayew&theme=vue-dark"></img></p>
-</details>
+</details open>
 <!--   profile-green-animate -->
 
 <h2 align="center">Thanks for visiting :heart:</h2>
